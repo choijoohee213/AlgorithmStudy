@@ -3,7 +3,7 @@ package com.younghwani.a220207;
 import java.util.*;
 import java.io.*;
 
-public class Main_bj_2529_부등호_220207_김영환 {
+public class Main {
 	static int N;
 	static boolean[] visited = new boolean[10];
 	static char[] inputs;
