@@ -9,12 +9,9 @@
 
 ## 📗 Study
 
-|       |  주제   |                    `temp`                          |  비고  |
+|       |  주제   |                    문제                          |  비고  |
 | :---- | ----   | :------------------------------------------------: | ---- |
-| 02/07 | 알고리즘 | [부등호](https://www.acmicpc.net/problem/2529), [단어 수학](https://www.acmicpc.net/problem/1339)       | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) |
-| 02/08 | 알고리즘 | [미정](https://www.acmicpc.net/)                     | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) |
-| 02/09 | 알고리즘 | [미정](https://www.acmicpc.net/)                     | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) |
-| 02/10 | 알고리즘 | [미정](https://www.acmicpc.net/)                     | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) |
+| 02/07 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [부등호](https://www.acmicpc.net/problem/2529), [단어 수학](https://www.acmicpc.net/problem/1339)       |  |
 
 <br>
 
