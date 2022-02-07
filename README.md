@@ -5,16 +5,16 @@
 -   [알고리즘 중급 문제집](https://code.plus/course/43)에서 순서대로 문제 풀기
 -   매일 2~3개의 문제를 선정하여 풀고 업로드
 -   업로드 다음날 각자의 코드를 리뷰
-    <br>
+-   네이밍 규칙 : 날짜_백준_문제번호_이름
+-   사용 언어 : Java   
+
+<br>
 
 ## 📗 Study
 
-|       |  주제   |                    `temp`                          |  비고  |
+|       |  주제   |                    문제                          |  비고  |
 | :---- | ----   | :------------------------------------------------: | ---- |
-| 02/07 | 알고리즘 | [부등호](https://www.acmicpc.net/problem/2529), [단어 수학](https://www.acmicpc.net/problem/1339)       | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) |
-| 02/08 | 알고리즘 | [미정](https://www.acmicpc.net/)                     | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) |
-| 02/09 | 알고리즘 | [미정](https://www.acmicpc.net/)                     | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) |
-| 02/10 | 알고리즘 | [미정](https://www.acmicpc.net/)                     | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) |
+| 02/07 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [부등호](https://www.acmicpc.net/problem/2529), [단어 수학](https://www.acmicpc.net/problem/1339)       |  |
 
 <br>
 
