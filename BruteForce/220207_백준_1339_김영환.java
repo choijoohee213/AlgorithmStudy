@@ -2,7 +2,7 @@ package com.younghwani.a220207;
 
 import java.util.*;
 import java.io.*;
-public class Main_bj_1339_단어수학_220207_김영환 {
+public class Main {
 	static int N, res = Integer.MIN_VALUE;
 	static String[] inputs;
 	static List<Character> alpha = new ArrayList<>();
