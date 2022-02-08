@@ -15,6 +15,7 @@
 |       |  주제   |                    문제                          |  비고  |
 | :---- | ----   | :------------------------------------------------: | ---- |
 | 02/07 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [부등호](https://www.acmicpc.net/problem/2529), [단어 수학](https://www.acmicpc.net/problem/1339)       |  |
+| 02/08 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888), [스타트와 링크](https://www.acmicpc.net/problem/14889)       |  |
 
 <br>
 
