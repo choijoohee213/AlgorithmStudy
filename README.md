@@ -18,6 +18,7 @@
 | 02/08 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888), [스타트와 링크](https://www.acmicpc.net/problem/14889)       |  |
 | 02/09 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [부분수열의 합](https://www.acmicpc.net/problem/1182), [로또](https://www.acmicpc.net/problem/6603)       |  |
 | 02/10 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [부분수열의 합](https://www.acmicpc.net/problem/14225), [연산자 끼워넣기2](https://www.acmicpc.net/problem/15658)       |  |
+| 02/11 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244), [주사위 쌓기](https://www.acmicpc.net/problem/2116), [창고 다각형](https://www.acmicpc.net/problem/2304)       |  |
 
 <br>
 
