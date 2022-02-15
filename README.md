@@ -20,6 +20,7 @@
 | 02/10 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [부분수열의 합](https://www.acmicpc.net/problem/14225), [연산자 끼워넣기2](https://www.acmicpc.net/problem/15658)       |  |
 | 02/11 | [IM 대비 20선](https://github.com/younghwani/AlgorithmStudy/tree/master/IM%20%EB%8C%80%EB%B9%84%2020%EC%84%A0) | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244), [주사위 쌓기](https://www.acmicpc.net/problem/2116), [창고 다각형](https://www.acmicpc.net/problem/2304)       |  |
 | 02/14 | [IM 대비 20선](https://github.com/younghwani/AlgorithmStudy/tree/master/IM%20%EB%8C%80%EB%B9%84%2020%EC%84%A0) | [일곱 난쟁이](http://boj.kr/2309), [참외밭](http://boj.kr/2477), [수열](http://boj.kr/2491), [직사각형](http://boj.kr/2527)       |  |
+| 02/15 | [IM 대비 20선](https://github.com/younghwani/AlgorithmStudy/tree/master/IM%20%EB%8C%80%EB%B9%84%2020%EC%84%A0) | [수열](http://boj.kr/2559), [색종이](http://boj.kr/2563), [경비원](http://boj.kr/2564), [빙고](http://boj.kr/2578)       |  |
 
 <br>
 
