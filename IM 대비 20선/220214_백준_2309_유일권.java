@@ -16,12 +16,12 @@ public class Main {
 
         for(int i=0; i<9; i++){
             small[i] = Integer.parseInt(br.readLine());
-            sum += small[i];
+            sum += small[i];                            //총합 계산
         }
         Arrays.sort(small);
         loop:for(int i=0; i<9; i++){
             for(int j=i+1; j<9; j++){
-                if(sum - small[i] - small[j] == 100){
+                if(sum - small[i] - small[j] == 100){   //총합에서 2개가 100인경우
                     for(int k=0; k<9; k++){
                         if(k==i||k==j){
                             continue;
