@@ -13,8 +13,10 @@ public class Main_bj_2578_빙고 {
     public static void main(String[] args) throws Exception {
         System.setIn(new FileInputStream("res/input_bj_2578.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        // 빙고판 입력
         for (int i = 0; i < 5; i++) pan[i] = Stream.of(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
         //System.out.println(Arrays.deepToString(pan));
+        // 사회자가 부르는 번호 call에 적재
         for (int i = 0; i < 5; i++) Stream.of(br.readLine().split(" ")).forEach(n->call.add(Integer.parseInt(n)));
         //System.out.println(call.toString());
         for (int i: call) {
