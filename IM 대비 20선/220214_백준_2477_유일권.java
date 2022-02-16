@@ -16,10 +16,10 @@ public class Main {
         int[] sm_sq = new int[2];       //작은 사각형
         for(int i=0; i<6; i++){
             st = new StringTokenizer(br.readLine());
-            field[i][0] = Integer.parseInt(st.nextToken());
-            field[i][1] = Integer.parseInt(st.nextToken());
+            field[i][0] = Integer.parseInt(st.nextToken());     //방향
+            field[i][1] = Integer.parseInt(st.nextToken());     //길이
             if(field[i][0]==1||field[i][0]==2){
-                big_sq[0] = Math.max(big_sq[0], field[i][1]);
+                big_sq[0] = Math.max(big_sq[0], field[i][1]);   //가로세로 가장 긴변 고르기
             }else{
                 big_sq[1] = Math.max(big_sq[1], field[i][1]);
             }

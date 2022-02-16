@@ -17,20 +17,16 @@ public class Main {
         int[] arr= new int[N];
         st = new StringTokenizer(br.readLine());
         for(int i=0; i<N; i++){
-            arr[i] = Integer.parseInt(st.nextToken());
+            arr[i] = Integer.parseInt(st.nextToken());          //입력 받아서 배열에 정리
         }
 
         for(int i=0; i<=N-K; i++){
             int rst = 0;
-            for(int j=0; j<K; j++){
+            for(int j=0; j<K; j++){                             //연속되는 K일만큼 더해서
                 rst += arr[i+j];
             }
-
-
-            System.out.println(rst);
-            max = max > rst ? max : rst;
+            max = max > rst ? max : rst;                        //큰값 max에 저장
         }
-        System.out.println();
         bw.write(Integer.toString(max));
         bw.close();
         br.close();
