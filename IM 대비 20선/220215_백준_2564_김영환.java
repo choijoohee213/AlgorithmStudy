@@ -4,6 +4,11 @@ import java.io.*;
 import java.util.*;
 import java.util.stream.Stream;
 
+/*
+테두리로만 이동한다.
+인접한 변은 한가지 방법으로 이동 가능하다(최소 거리)
+평행한 변은 두가지 route를 계산하고, 비교하여 최소 거리를 사용한다.
+ */
 public class Main_bj_2564_경비원 {
     public static void main(String[] args) throws Exception {
         System.setIn(new FileInputStream("res/input_bj_2564.txt"));
