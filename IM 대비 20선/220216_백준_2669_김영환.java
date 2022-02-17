@@ -11,7 +11,7 @@ public class Main_bj_2669_직사각형네개의합집합의넓이구하기 {
             int[] arr = Stream.of(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
             for (int h = arr[0]; h < arr[2]; h++) {
                 for (int k = arr[1]; k < arr[3]; k++) {
-                    pan[h][k] = true;
+                    pan[h][k] = true; // 사각형이 있는 부분 true
                 }
             }
         }
