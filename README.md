@@ -21,6 +21,8 @@
 | 02/11 | [IM 대비 20선](https://github.com/younghwani/AlgorithmStudy/tree/master/IM%20%EB%8C%80%EB%B9%84%2020%EC%84%A0) | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244), [주사위 쌓기](https://www.acmicpc.net/problem/2116), [창고 다각형](https://www.acmicpc.net/problem/2304)       |  |
 | 02/14 | [IM 대비 20선](https://github.com/younghwani/AlgorithmStudy/tree/master/IM%20%EB%8C%80%EB%B9%84%2020%EC%84%A0) | [일곱 난쟁이](http://boj.kr/2309), [참외밭](http://boj.kr/2477), [수열](http://boj.kr/2491), [직사각형](http://boj.kr/2527)       |  |
 | 02/15 | [IM 대비 20선](https://github.com/younghwani/AlgorithmStudy/tree/master/IM%20%EB%8C%80%EB%B9%84%2020%EC%84%A0) | [수열](http://boj.kr/2559), [색종이](http://boj.kr/2563), [경비원](http://boj.kr/2564), [빙고](http://boj.kr/2578)       |  |
+| 02/16 | [IM 대비 20선](https://github.com/younghwani/AlgorithmStudy/tree/master/IM%20%EB%8C%80%EB%B9%84%2020%EC%84%A0) | [줄 세우기](http://boj.kr/2605), [종이자르기](http://boj.kr/2628), [수 이어가기](http://boj.kr/2635), [직사각형 네개의 합집합의 면적 구하기](http://boj.kr/2669)       |  |
+| 02/17 | [IM 대비 20선](https://github.com/younghwani/AlgorithmStudy/tree/master/IM%20%EB%8C%80%EB%B9%84%2020%EC%84%A0) | [자리배정](http://boj.kr/10157), [개미](http://boj.kr/10158), [색종이](http://boj.kr/10163), [방배정](http://boj.kr/13300), [딱지놀이](http://boj.kr/14696)       |  |
 
 <br>
 
