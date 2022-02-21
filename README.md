@@ -23,6 +23,7 @@
 | 02/15 | [IM 대비 20선](https://github.com/younghwani/AlgorithmStudy/tree/master/IM%20%EB%8C%80%EB%B9%84%2020%EC%84%A0) | [수열](http://boj.kr/2559), [색종이](http://boj.kr/2563), [경비원](http://boj.kr/2564), [빙고](http://boj.kr/2578)       |  |
 | 02/16 | [IM 대비 20선](https://github.com/younghwani/AlgorithmStudy/tree/master/IM%20%EB%8C%80%EB%B9%84%2020%EC%84%A0) | [줄 세우기](http://boj.kr/2605), [종이자르기](http://boj.kr/2628), [수 이어가기](http://boj.kr/2635), [직사각형 네개의 합집합의 면적 구하기](http://boj.kr/2669)       |  |
 | 02/17 | [IM 대비 20선](https://github.com/younghwani/AlgorithmStudy/tree/master/IM%20%EB%8C%80%EB%B9%84%2020%EC%84%A0) | [자리배정](http://boj.kr/10157), [개미](http://boj.kr/10158), [색종이](http://boj.kr/10163), [방배정](http://boj.kr/13300), [딱지놀이](http://boj.kr/14696)       |  |
+| 02/21 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [테트로미노](https://www.acmicpc.net/problem/14500), [두 동전](https://www.acmicpc.net/problem/16197)       |  |
 
 <br>
 
