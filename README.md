@@ -25,6 +25,7 @@
 | 02/17 | [IM 대비 20선](https://github.com/younghwani/AlgorithmStudy/tree/master/IM%20%EB%8C%80%EB%B9%84%2020%EC%84%A0) | [자리배정](http://boj.kr/10157), [개미](http://boj.kr/10158), [색종이](http://boj.kr/10163), [방배정](http://boj.kr/13300), [딱지놀이](http://boj.kr/14696)       |  |
 | 02/21 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [테트로미노](https://www.acmicpc.net/problem/14500), [두 동전](https://www.acmicpc.net/problem/16197)       |  |
 | 02/22 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [에너지 모으기](https://www.acmicpc.net/problem/16198), [N-Queen](https://www.acmicpc.net/problem/9663)       |  |
+| 02/23 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [스도쿠](https://www.acmicpc.net/problem/2580), [스도미노쿠](https://www.acmicpc.net/problem/4574)       |  |
 
 <br>
 
