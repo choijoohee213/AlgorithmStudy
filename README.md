@@ -26,6 +26,7 @@
 | 02/21 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [테트로미노](https://www.acmicpc.net/problem/14500), [두 동전](https://www.acmicpc.net/problem/16197)       |  |
 | 02/22 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [에너지 모으기](https://www.acmicpc.net/problem/16198), [N-Queen](https://www.acmicpc.net/problem/9663)       |  |
 | 02/23 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [스도쿠](https://www.acmicpc.net/problem/2580), [스도미노쿠](https://www.acmicpc.net/problem/4574)       |  |
+| 02/24 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [퇴사](https://www.acmicpc.net/problem/14501), [가르침](https://www.acmicpc.net/problem/1062)       |  |
 
 <br>
 
