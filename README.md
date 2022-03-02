@@ -28,6 +28,7 @@
 | 02/23 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [스도쿠](https://www.acmicpc.net/problem/2580), [스도미노쿠](https://www.acmicpc.net/problem/4574)       |  |
 | 02/24 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [퇴사](https://www.acmicpc.net/problem/14501), [가르침](https://www.acmicpc.net/problem/1062)       |  |
 | 02/28 | [BruteForce](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BruteForce) | [구슬탈출2](https://www.acmicpc.net/problem/13460), [2048(Easy)](https://www.acmicpc.net/problem/12100)       |  |
+| 03/02 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS) | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928), [데스 나이트](https://www.acmicpc.net/problem/16948)       |  |
 
 <br>
 
