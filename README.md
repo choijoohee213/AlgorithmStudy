@@ -31,6 +31,7 @@
 | 03/02 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS) | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928), [데스 나이트](https://www.acmicpc.net/problem/16948)       |  |
 | 03/03 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS) | [DSLR](https://www.acmicpc.net/problem/9019), [연구소](https://www.acmicpc.net/problem/14502)       |  |
 | 03/04 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS) | [돌그룹](https://www.acmicpc.net/problem/12886), [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)       |  |
+| 03/07 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS) | [벽 부수고 이동하기2](https://www.acmicpc.net/problem/14442), [벽 부수고 이동하기4](https://www.acmicpc.net/problem/16946)       |  |
 
 <br>
 
