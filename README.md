@@ -32,6 +32,7 @@
 | 03/03 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS) | [DSLR](https://www.acmicpc.net/problem/9019), [연구소](https://www.acmicpc.net/problem/14502)       |  |
 | 03/04 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS) | [돌그룹](https://www.acmicpc.net/problem/12886), [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)       |  |
 | 03/07 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS) | [벽 부수고 이동하기2](https://www.acmicpc.net/problem/14442), [벽 부수고 이동하기4](https://www.acmicpc.net/problem/16946)       |  |
+| 03/08 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS) | [벽 부수고 이동하기3](https://www.acmicpc.net/problem/16933), [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) |  |
 
 <br>
 
