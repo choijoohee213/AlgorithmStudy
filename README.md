@@ -35,6 +35,7 @@
 | 03/08 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS) | [벽 부수고 이동하기3](https://www.acmicpc.net/problem/16933), [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) |  |
 | 03/10 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS) | [탈출](https://www.acmicpc.net/problem/3055), [아기 상어](https://www.acmicpc.net/problem/16236) |  |
 | 03/11 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS) | [레이저 통신](https://www.acmicpc.net/problem/6087), [소수 경로](https://www.acmicpc.net/problem/1963) |  |
+| 03/14 | [BFS](https://github.com/LuckySF007/AlgorithmStudy/tree/master/BFS)[Greedy](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Greedy) | [4연산](https://www.acmicpc.net/problem/14395), [동전0](https://www.acmicpc.net/problem/11047) |  |
 
 <br>
 
