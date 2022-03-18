@@ -39,6 +39,7 @@
 | 03/15 | [Greedy](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Greedy) | [회의실 배정](https://www.acmicpc.net/problem/1931), [ATM](https://www.acmicpc.net/problem/11399) |  |
 | 03/16 | [Greedy](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Greedy) | [행렬](https://www.acmicpc.net/problem/1080), [전구와 스위치](https://www.acmicpc.net/problem/2138) |  |
 | 03/17 | [Greedy](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Greedy) | [보석도둑](https://www.acmicpc.net/problem/1202), [동전 뒤집기](https://www.acmicpc.net/problem/1285) |  |
+| 03/18 | [Greedy](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Greedy) | [순회강연](https://www.acmicpc.net/problem/2109), [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) |  |
 
 <br>
 
