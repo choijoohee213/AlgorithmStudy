@@ -42,6 +42,7 @@
 | 03/18 | [Greedy](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Greedy) | [순회강연](https://www.acmicpc.net/problem/2109), [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) |  |
 | 03/22 | [Greedy](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Greedy) | [수 묶기](https://www.acmicpc.net/problem/1744), [30](https://www.acmicpc.net/problem/10610) |  |
 | 03/23 | [Greedy](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Greedy) | [병든나이트](https://www.acmicpc.net/problem/1783), [AB](https://www.acmicpc.net/problem/12970) |  |
+| 03/24 | [Greedy](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Greedy) | [NMK](https://www.acmicpc.net/problem/1210), [A와 B](https://www.acmicpc.net/problem/12904) |  |
 
 <br>
 
