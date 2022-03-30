@@ -3,7 +3,7 @@ package com.younghwani.a220330;
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
-// shallow copy와 deep copy를 잘 고려하여 문제를 풀자.
+// 리펙터링에 너무 몰두하지 말자ㅜ 코드 블럭 잘못 지워서 틀렸음.
 public class Main_bj_17143_낚시왕 {
     static class Shark implements Comparable<Shark> {
         int r, c, speed, d, size;
@@ -74,8 +74,8 @@ public class Main_bj_17143_낚시왕 {
                 // 여러 상어가 만나는 경우
                 if(map[shark.r][shark.c]!=null) {
                     if (map[shark.r][shark.c].size < shark.size)
-                        map[shark.r][shark.c] = new Shark(shark.r, shark.c, shark.speed, shark.d, shark.size);
-                } else map[shark.r][shark.c] = new Shark(shark.r, shark.c, shark.speed, shark.d, shark.size);
+                        map[shark.r][shark.c] = shark;
+                } else map[shark.r][shark.c] = shark;
             }
             // map에 저장된 shark를 sharks에 옮기기
             sharks.clear();
