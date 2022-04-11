@@ -52,6 +52,8 @@
 | 04/05 | [Implementation](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Implementation) | [컨베이어벨트위의로봇](https://www.acmicpc.net/problem/20055), [게리맨더링2](https://www.acmicpc.net/problem/17779) |  |
 | 04/06 | [Implementation](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Implementation) | [청소년상어](https://www.acmicpc.net/problem/19236), [⚾️](https://www.acmicpc.net/problem/17281) |  |
 | 04/07 | [Implementation](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Implementation) | [스타트 택시](https://www.acmicpc.net/problem/19238), [새로운 게임2](https://www.acmicpc.net/problem/17837) |  |
+| 04/08 | [Implementation](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Implementation) | [주사위 윷놀이](https://www.acmicpc.net/problem/17825), [후보 추천하기](https://www.acmicpc.net/problem/1713) |  |
+| 04/11 | [Implementation](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Implementation) | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056), [열쇠](https://www.acmicpc.net/problem/9328) |  |
 
 <br>
 
