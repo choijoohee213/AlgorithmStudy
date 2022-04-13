@@ -54,6 +54,7 @@
 | 04/07 | [Implementation](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Implementation) | [스타트 택시](https://www.acmicpc.net/problem/19238), [새로운 게임2](https://www.acmicpc.net/problem/17837) |  |
 | 04/08 | [Implementation](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Implementation) | [주사위 윷놀이](https://www.acmicpc.net/problem/17825), [후보 추천하기](https://www.acmicpc.net/problem/1713) |  |
 | 04/11 | [Implementation](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Implementation) | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056), [열쇠](https://www.acmicpc.net/problem/9328) |  |
+| 04/13 | [Implementation](https://github.com/LuckySF007/AlgorithmStudy/tree/master/Implementation) | [회문](https://www.acmicpc.net/problem/17609), [경쟁적 전염](https://www.acmicpc.net/problem/18405) |  |
 
 <br>
 
