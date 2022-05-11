@@ -2,10 +2,10 @@
 
 ## 📄 진행방식
 
--   문제 출처 : [알고리즘 중급 문제집](https://code.plus/course/43), [구현 문제(실버2~골드1)](https://solved.ac/search?query=tag%3Aimplementation%20tier%3As2..g1)
+-   문제 출처 : [알고리즘 중급 문제집](https://code.plus/course/43), [구현 문제(실버2~골드1)](https://solved.ac/search?query=tag%3Aimplementation%20tier%3As2..g1), 프로그래머스
 -   매일 2~3개의 문제를 선정하여 풀고 업로드
 -   업로드 다음날 각자의 코드를 리뷰
--   네이밍 규칙 : 날짜_백준_문제번호_이름
+-   네이밍 규칙 : 날짜_백준(or 프로그래머스)_문제번호_이름
 -   사용 언어 : Java / C++ / Python
 
 <br>
