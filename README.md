@@ -69,6 +69,7 @@
 | 05/10 | Implementation | [불켜기](https://www.acmicpc.net/problem/11967), [별 찍기 - 22](https://www.acmicpc.net/problem/10997) |  |
 | 05/11 | Implementation | [K 진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335), [양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342) |  |
 | 05/12 | Implementation | [로마 숫자](https://www.acmicpc.net/problem/2608), [주사위 굴리기 2](https://www.acmicpc.net/problem/23288) |  |
+| 05/16 | Implementation | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994), [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) |  |
 
 <br>
 
