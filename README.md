@@ -71,6 +71,8 @@
 | 05/12 | Implementation | [로마 숫자](https://www.acmicpc.net/problem/2608), [주사위 굴리기 2](https://www.acmicpc.net/problem/23288) |  |
 | 05/16 | Implementation | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994), [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) |  |
 | 05/17 | Implementation | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502), [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) |  |
+| 05/18 | Implementation | [입국 심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |  |
+| 05/31 | Implementation | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809), [틱택토](https://www.acmicpc.net/problem/7682) |  |
 
 <br>
 
