@@ -73,6 +73,8 @@
 | 05/17 | Implementation | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502), [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) |  |
 | 05/18 | Implementation | [입국 심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |  |
 | 05/31 | Implementation | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809), [틱택토](https://www.acmicpc.net/problem/7682) |  |
+| 06/02 | Implementation | [추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676), [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) |  |
+| 06/03 | Implementation | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884), [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) |  |
 
 <br>
 
