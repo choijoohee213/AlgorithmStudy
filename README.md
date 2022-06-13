@@ -75,6 +75,7 @@
 | 05/31 | Implementation | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809), [틱택토](https://www.acmicpc.net/problem/7682) |  |
 | 06/02 | Implementation | [추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676), [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) |  |
 | 06/03 | Implementation | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884), [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) |  |
+| 06/14 | Implementation | [수 찾기](https://www.acmicpc.net/problem/1920), [나무 자르기](https://www.acmicpc.net/problem/1920) |  |
 
 <br>
 
