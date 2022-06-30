@@ -13,7 +13,7 @@
 ## 📗 Study
 
 <details>
-  <summary><h2>푼 문제 List 보기</h2></summary>
+  <summary><h3>2월에 푼 문제</h3></summary>
 <div markdown="1"> 
 
 |       |  주제   |                    문제                          |  비고  |
@@ -32,6 +32,16 @@
 | 02/23 | BruteForce | [스도쿠](https://www.acmicpc.net/problem/2580), [스도미노쿠](https://www.acmicpc.net/problem/4574)       |  |
 | 02/24 | BruteForce | [퇴사](https://www.acmicpc.net/problem/14501), [가르침](https://www.acmicpc.net/problem/1062)       |  |
 | 02/28 | BruteForce | [구슬탈출2](https://www.acmicpc.net/problem/13460), [2048(Easy)](https://www.acmicpc.net/problem/12100)       |  |
+
+</div>
+</details>
+
+<details>
+  <summary><h3>3월에 푼 문제</h3></summary>
+<div markdown="1"> 
+
+|       |  주제   |                    문제                          |  비고  |
+| :---- | ----   | :------------------------------------------------: | ---- |
 | 03/02 | BFS | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928), [데스 나이트](https://www.acmicpc.net/problem/16948)       |  |
 | 03/03 | BFS | [DSLR](https://www.acmicpc.net/problem/9019), [연구소](https://www.acmicpc.net/problem/14502)       |  |
 | 03/04 | BFS | [돌그룹](https://www.acmicpc.net/problem/12886), [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)       |  |
@@ -51,6 +61,16 @@
 | 03/28 | Implementation | [사다리 조작](https://www.acmicpc.net/problem/15684), [나무 재테크](https://www.acmicpc.net/problem/16235) |  |
 | 03/30 | Implementation | [낚시왕](https://www.acmicpc.net/problem/17143), [마인크래프트](https://www.acmicpc.net/problem/18111) |  |
 | 03/31 | Implementation | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140), [배열돌리기 4](https://www.acmicpc.net/problem/17406) |  |
+
+</div>
+</details>
+
+<details>
+  <summary><h3>4월에 푼 문제</h3></summary>
+<div markdown="1"> 
+
+|       |  주제   |                    문제                          |  비고  |
+| :---- | ----   | :------------------------------------------------: | ---- |
 | 04/01 | Implementation | [빗물](https://www.acmicpc.net/problem/14719), [다리만들기 2](https://www.acmicpc.net/problem/17472) |  |
 | 04/04 | Implementation | [스도쿠](https://www.acmicpc.net/problem/2239), [원판돌리기](https://www.acmicpc.net/problem/17822) |  |
 | 04/05 | Implementation | [컨베이어벨트위의로봇](https://www.acmicpc.net/problem/20055), [게리맨더링2](https://www.acmicpc.net/problem/17779) |  |
@@ -69,6 +89,16 @@
 | 04/25 | Implementation | [수 이어 쓰기 2](https://www.acmicpc.net/problem/1790), [스티커 붙이기](https://www.acmicpc.net/problem/18808) |  |
 | 04/26 | Implementation | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985), [추월](https://www.acmicpc.net/problem/2002) |  |
 | 04/27 | Implementation | [상어 중학교](https://www.acmicpc.net/problem/21609), [지구 온난화](https://www.acmicpc.net/problem/5212) |  |
+
+</div>
+</details>
+
+<details>
+  <summary><h3>5월에 푼 문제</h3></summary>
+<div markdown="1"> 
+
+|       |  주제   |                    문제                          |  비고  |
+| :---- | ----   | :------------------------------------------------: | ---- |
 | 05/09 | Implementation | [모노미노도미노 2](https://www.acmicpc.net/problem/20061), [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662) |  |
 | 05/10 | Implementation | [불켜기](https://www.acmicpc.net/problem/11967), [별 찍기 - 22](https://www.acmicpc.net/problem/10997) |  |
 | 05/11 | Implementation | [K 진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335), [양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342) |  |
@@ -77,6 +107,16 @@
 | 05/17 | Implementation | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502), [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) |  |
 | 05/18 | Implementation | [입국 심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |  |
 | 05/31 | Implementation | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809), [틱택토](https://www.acmicpc.net/problem/7682) |  |
+
+</div>
+</details>
+
+<details>
+  <summary><h3>6월에 푼 문제</h3></summary>
+<div markdown="1"> 
+
+|       |  주제   |                    문제                          |  비고  |
+| :---- | ----   | :------------------------------------------------: | ---- |
 | 06/02 | Implementation | [추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676), [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) |  |
 | 06/03 | Implementation | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884), [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) |  |
 | 06/14 | Implementation | [수 찾기](https://www.acmicpc.net/problem/1920), [나무 자르기](https://www.acmicpc.net/problem/2805) |  |
