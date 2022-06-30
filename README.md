@@ -12,6 +12,10 @@
 
 ## 📗 Study
 
+<details>
+  <summary><h2>푼 문제 List 보기</h2></summary>
+<div markdown="1"> 
+
 |       |  주제   |                    문제                          |  비고  |
 | :---- | ----   | :------------------------------------------------: | ---- |
 | 02/07 | BruteForce | [부등호](https://www.acmicpc.net/problem/2529), [단어 수학](https://www.acmicpc.net/problem/1339)       |  |
@@ -76,6 +80,10 @@
 | 06/02 | Implementation | [추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676), [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) |  |
 | 06/03 | Implementation | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884), [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) |  |
 | 06/14 | Implementation | [수 찾기](https://www.acmicpc.net/problem/1920), [나무 자르기](https://www.acmicpc.net/problem/2805) |  |
+| 06/29 | Implementation | [랜선 자르기](https://www.acmicpc.net/problem/1654), [공유기 설치](https://www.acmicpc.net/problem/2110) |  |
+
+</div>
+</details>
 
 <br>
 
