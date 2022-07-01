@@ -125,6 +125,17 @@
 </div>
 </details>
 
+<details>
+  <summary><h3>7월에 푼 문제</h3></summary>
+<div markdown="1"> 
+
+|       |  주제   |                    문제                          |  비고  |
+| :---- | ----   | :------------------------------------------------: | ---- |
+| 07/01 | Implementation | [게임](https://www.acmicpc.net/problem/1072), [두 용액](https://www.acmicpc.net/problem/2470) |  |
+
+</div>
+</details>
+
 <br>
 
 ## 🙋🏻‍♂️ Contributors
