@@ -132,6 +132,8 @@
 |       |  주제   |                    문제                          |  비고  |
 | :---- | ----   | :------------------------------------------------: | ---- |
 | 07/01 | Implementation | [게임](https://www.acmicpc.net/problem/1072), [두 용액](https://www.acmicpc.net/problem/2470) |  |
+| 07/05 | Implementation | [중량제한](https://www.acmicpc.net/problem/1939), [기타 레슨](https://www.acmicpc.net/problem/2343) |  |
+| 07/07 | Implementation | [좋다](https://www.acmicpc.net/problem/1253), [로봇 프로젝트](https://www.acmicpc.net/problem/3649) |  |
 
 </div>
 </details>
